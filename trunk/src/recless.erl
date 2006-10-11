@@ -8,8 +8,8 @@
 %% 
 %%     NewProject =
 %%       Project#project{owner =
-%%        (Project#project.owner)#owner{address =
-%%          ((Project#project.owner)#owner.address)#address{city =
+%%        (Project#project.person)#owner{address =
+%%          ((Project#project.person)#owner.address)#address{city =
 %%            'Boston'}}}.
 %%
 %%  it lets your write these lines:
