@@ -1,4 +1,4 @@
--module(test2).
+-module(test_recless2).
 -compile(export_all).
 
 test() ->
